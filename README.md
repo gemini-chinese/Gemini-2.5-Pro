@@ -1,12 +1,12 @@
 # Gemini 国内使用指南~（支持 Gemini-2.5-Pro，无需翻墙）【2025年更新】
 
-> **更新时间：2025/04/04**                  
+> **更新时间：2025/04/04**              
 
-全面体验 [**Gemini 中文版**](https://chat.chatgpt-chinese.com)，**国内直连，无需翻墙**，**支持 Gemini 2.5 Pro 及更多中文版功能**   
+全面体验 [**Gemini 中文版**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Gemini 2.5 Pro 及更多中文版功能**   
 
-本指南提供全面的 **Gemini 国内使用指南**，包括国内能用的 [**Gemini 官网入口**](https://chat.chatgpt-chinese.com)、[**Gemini 网页版**](https://chat.chatgpt-chinese.com)、[**Gemini 国内镜像网站**](https://chat.chatgpt-chinese.com) 和详细的使用教程，助您快速上手 Gemini~
+本指南提供全面的 **Gemini 国内使用指南**，包括国内能用的 [**Gemini 官网入口**](https://chat.lanjing.pro)、[**Gemini 网页版**](https://chat.lanjing.pro)、[**Gemini 国内镜像网站**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Gemini~
 
-**Gemini 中文版入口：[https://chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)**   
+**Gemini 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
 **Gemini 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 ## 什么是 Gemini 中文版？
-[**Gemini 中文版**](https://chat.chatgpt-chinese.com) 是 Google 的 Gemini 模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。   
+[**Gemini 中文版**](https://chat.lanjing.pro) 是 Google 的 Gemini 模型的中文优化版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。   
 与官网相比，**Gemini 中文版**在以下方面更适合国内用户：
 
 - **国内直连**：通过国内网站访问，无需额外的代理工具。
@@ -34,11 +34,11 @@
 ## 国内可用的 Gemini 中文版推荐
 以下是我们精选的国内优质 **Gemini 中文版镜像网站**，无需翻墙即可使用：
 
-- [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **Gemini 中文站**，支持 gemini-2.5-pro、claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
+- [chat.lanjing.pro](https://chat.lanjing.pro/) - **Gemini 中文站**，支持 gemini-2.5-pro、claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Gemini 中文版**，支持 gemini-2.5-pro、claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
 - [chat.lify.vip](https://www.yixiaai.com/) - **Gemini 镜像网站**，支持 gemini-2.5-pro、claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
-- [guide1.chatgpt-chinese.com](https://guide1.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
-- [chatgpt-chinese.com](https://chatgpt-chinese.com/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。
+- [guide1.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
+- [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。
 
 ---
 
@@ -57,7 +57,7 @@
 
 ## 如何使用 Gemini 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **蓝鲸AI ([chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **蓝鲸AI ([chat.lanjing.pro](https://chat.lanjing.pro))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 **Gemini-2.5-pro** 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
