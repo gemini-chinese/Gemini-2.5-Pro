@@ -1,6 +1,6 @@
 # Gemini 国内使用指南~（支持 Gemini-2.5-Pro，无需翻墙）【2025年更新】
 
-> **更新时间：2025/04/04**              
+> **更新时间：2025/04/05**          
 
 全面体验 [**Gemini 中文版**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Gemini 2.5 Pro 及更多中文版功能**   
 
@@ -37,7 +37,7 @@
 - [chat.lanjing.pro](https://chat.lanjing.pro/) - **Gemini 中文站**，支持 gemini-2.5-pro、claude 3.7 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Gemini 中文版**，支持 gemini-2.5-pro、claude-3.7-sonnet、GPT-o1、o3 及 Groq-3，支持 AI 绘画，扫码即可使用。
 - [chat.lify.vip](https://www.yixiaai.com/) - **Gemini 镜像网站**，支持 gemini-2.5-pro、claude-3.7、claude-3.5、GPT-o1、o3 及 Groq-3，提供 AI 文件、AI PPT、AI 助手、AI 插件功能和思维导图。
-- [guide1.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
+- [yixiaai.cn](https://yixiaai.cn/) - **ChatGPT 镜像网站**，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
 - [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/) - **免费 ChatGPT**，支持 GPT-4、4o 和 MJ 绘画。
 
 ---
